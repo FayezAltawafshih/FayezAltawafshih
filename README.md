@@ -1,7 +1,8 @@
- 💫 About Me: Results-oriented Data Analyst offering 3 years of experience in surfing, exploring and managing data 
-to drive business and community development growth. Adept at data manipulation, visualization and 
-processing data analyses software, proficient with operating SQL, Microsoft BI, Python and other 
-software systems.
+ 💫 About Me:
+ Results-oriented Data Analyst offering 3 years of experience in surfing, exploring and managing data 
+ to drive business and community development growth. Adept at data manipulation, visualization and 
+ processing data analyses software, proficient with operating SQL, Microsoft BI, Python and other 
+ software systems.
 
 🔭 I’m currently working in a data entry vacancy with ILO
 
