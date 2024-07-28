@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on<br>
+👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with<br>
+🌱 I’m currently learning<br>
+💬 Ask me about Results-oriented Data Analyst offering 3 years of experience in surfing, exploring and managing data 
+to drive business and community development growth. Adept at data manipulation, visualization and 
+processing data analyses software, proficient with operating SQL, Microsoft BI, Python and other 
+software systems.
+Interested in continuing the growth of my career with a company in which I can leverage my skills to 
+drive business growth and contribute to maximizing profit while progressing my career
+⚡ Fun fact
 
 
 ## 🌐 Socials:
