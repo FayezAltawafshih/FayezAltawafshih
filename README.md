@@ -8,7 +8,7 @@
 - 🔭 I’m currently available for work
 - 🌱  I’m currently studying Data Analysis Track in Princess Sumaya University for Technology
 - 📫 How to reach me **fayiz.altawafshih@yahoo.com**
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/home).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/home/Fayez Al Tawafshih.pdf).
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
