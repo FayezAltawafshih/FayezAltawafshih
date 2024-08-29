@@ -5,7 +5,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 ## Education
-
+Certificate of Data Analysi , | The Training Center at Princess Sumaya University , this is [my certificate] (https://drive.google.com/file/d/1HRTbzti0_41FcxqHeF-lYI910Dmee-19/view?usp=sharing)
 B.S., Management Information System | The University of Al-Hussein Bin Talal (_Jan 2015_)
 
 - 🔭 I’m currently available for work
