@@ -4,7 +4,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I have Bachelor's Degree `Management Information System` From Al Hussein Bin Talal University School of Business Administration 
+## Education
+
+B.S., Management Information System | The University of Al-Hussein Bin Talal (_Jan 2015_)
+
 - 🔭 I’m currently available for work
 - 🌱  I’m currently studying Data Analysis Track in Princess Sumaya University for Technology
 - 📫 How to reach me **fayiz.altawafshih@yahoo.com**
