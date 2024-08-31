@@ -95,7 +95,7 @@ Predictive Analytics Essential Training: Data Mining , | Linkedin Learning (http
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel"><img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
 <a href="https://www.microsoft.com/en-us/sql-server" title="SQL Server"><img src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"></a>
 <a href="https://powerbi.microsoft.com/" title="Microsoft Power BI"><img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="Microsoft Power BI"></a>
-	
+<a href="https://www.tableau.com/" title="Tableau"><img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>	
 <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
 <a href="https://www.r-project.org/" title="R Project"> <img src="https://img.shields.io/badge/R-Data%20Science-blue.svg?style=for-the-badge&logo=R&logoColor=white" alt="R Badge"/>
