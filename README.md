@@ -78,6 +78,7 @@ Predictive Analytics Essential Training: Data Mining , | Linkedin Learning (http
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
 
+
 <br>
 
 ## 📩 Connect with me
