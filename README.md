@@ -38,6 +38,26 @@ B.S., Management Information System | The University of Al-Hussein Bin Talal (_J
 - Interviewed random individuals to collect statistics for research purposes depending on the 
   research topic.
 - Analyzed and sorted out of all data.
+
+## Courses
+Preparing Data for Analysis with Microsoft Excel , | Coursera (https://drive.google.com/file/d/1K3ETT2ndNIRrwBO9RwxKb9kUSVlK39Kh/view)
+Statistics Foundations 1:The Basics , | Linkedin Learning (https://drive.google.com/file/d/1TJJYH5n1ZwLOyOx-VG4Vk-otTk2K134O/view?usp=sharing)
+Statistics Foundations 2: Probability , | Linkedin Learning (https://drive.google.com/file/d/13n3NNNjUIEsDny_lKrg4n_GmCExULLv_/view?usp=sharing)
+Statistics Foundations 3: Using Data Sets , | Linkedin Learning (https://drive.google.com/file/d/14sMLKwXTwPL4h_gonwh1KzaoXmKR2jYP/view?usp=sharing)
+15 Database Level 1 - SQL , | ProgrammingAdvices (https://drive.google.com/file/d/1maqGKsaay_mPZqH5Kzw23UmMAAG67uiE/view?usp=sharing)
+Analyze Data to Answer Questions , | Coursera (https://drive.google.com/file/d/1vI7a-JXWXAV0icqHtDzWxb_EIw_-2SFP/view?usp=sharing)
+Business Analysis Foundations , | Linkedin Learning (https://drive.google.com/file/d/1VGh-xcfA44OySI9-N8f_ZWYZ1wA-DYAv/view?usp=sharing)
+Data Fluency: Exploring and Describing Data , | Linkedin Learning (https://drive.google.com/file/d/1V4JmqBw6HYYz81_NGCrZmTvjPdqTO-HV/view?usp=sharing)
+Data Modeling in Power BI , | Coursera (https://drive.google.com/file/d/1MdsB9NteYR50LAIObiIFMJ2JgQvHPNFM/view?usp=sharing)
+Extract, Transform and Load Data in Power BI , | Coursera (https://drive.google.com/file/d/1qv-St75MfbOzZXRw3aVEzR91ERUhJjib/view?usp=sharing)
+Foundations: Data, Data, Everywhere , | Coursera (https://drive.google.com/file/d/1FL5h54RFQ2LuTNHDs9LC4A0vmwp6KPzI/view?usp=sharing)
+Go Beyond the Numbers: Translate Data into Insights , | Coursera (https://drive.google.com/file/d/12XVHkj1bRH0A7U1nKtc0Z5RZfl8YEIKI/view?usp=sharing)
+Harnessing the Power of Data with Power BI , | Coursera (https://drive.google.com/file/d/1R3V_Uub3kqNMw0akpEfhFd_LPXbEMyy5/view?usp=sharing)
+Learning Data Analytics: 1 Foundations , | Linkedin Learning (https://drive.google.com/file/d/18ty-P_OLNwsd8MI7-Z1cDZaR1Et-sC81/view?usp=sharing)
+Learning Data Analytics Part 2: Extending and Applying Core Knowledge , | Linkedin Learning (https://drive.google.com/file/d/1Cvsgc1h3LYDa2GXS1FxHOtu7M_FkHv4f/view?usp=sharing)
+Learning Excel:Data Analysis , | Linkedin Learning (https://drive.google.com/file/d/1htrQZpXYmm3WBZRwlCiVe0bU3UqbOI8y/view?usp=sharing)
+Predictive Analytics Essential Training: Data Mining , | Linkedin Learning (https://drive.google.com/file/d/1EZHGYqpGOp321sk6_nXcKGMTbxRsxvrB/view?usp=sharing)
+
 - 📫 How to reach me **fayiz.altawafshih@yahoo.com**
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1k0_YaAfyiGEdP2XfRtdRailpc3NW4Ccg/view?usp=sharing).
 - :nerd_face: Always `learning new things`
