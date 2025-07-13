@@ -5,12 +5,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 ## Profile Summary
-Results-oriented Data Analyst offering 3 years of experience in surfing, exploring and managing data 
-to drive business and community development growth. Adept at data manipulation, visualization and 
-processing data analyses software, proficient with operating SQL, Microsoft BI, Python and other 
-software systems.
-Interested in continuing the growth of my career with a company in which I can leverage my skills to 
-drive business growth and contribute to maximizing profit while progressing my career.
+Detail-oriented Data Analyst with hands-on experience in SQL, Power BI, Excel, and Python. Skilled in transforming large datasets into strategic insights to support data-driven decision-making. Looking to apply analytical and visualization skills in a dynamic, data-focused organization.
 
 ## Education
 Certificate of Data Analysi , | The Training Center at Princess Sumaya University , 
@@ -24,7 +19,7 @@ B.S., Management Information System | The University of Al-Hussein Bin Talal (_J
   - Designed and maintained coding sheets and data collection tools tailored to specific research topics.
   - Entered, cleaned, and organized raw data to ensure accuracy and consistency.
     
-** Surveyor Assistant – Nimr Al-Lawzi and Partners (Nov 2021 – Jun 2022)**
+**Surveyor Assistant – Nimr Al-Lawzi and Partners (Nov 2021 – Jun 2022)**
   - Assisted the lead surveyor in setting up and operating surveying equipment such as leveling instruments and total stations.
   - Marked reference points and boundary lines based on engineering drawings.
   - Accurately recorded field measurements and verified data before submission.
@@ -38,7 +33,7 @@ B.S., Management Information System | The University of Al-Hussein Bin Talal (_J
 -  Prepared final analysis reports for the stakeholders to understand the data-analysis steps, 
   enabling them to take important decisions based on various facts and trends.
 
-** Researcher @ Department of Statistics (Apr 2015 - Dec 2015)**
+**Researcher @ Department of Statistics (Apr 2015 - Dec 2015)**
 - Created data and coding sheets, and collect statistical data
 - Interviewed random individuals to collect statistics for research purposes depending on the 
   research topic.
