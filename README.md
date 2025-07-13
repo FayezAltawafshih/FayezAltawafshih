@@ -19,11 +19,16 @@ this is [my certificate] (https://drive.google.com/file/d/1HRTbzti0_41FcxqHeF-lY
 B.S., Management Information System | The University of Al-Hussein Bin Talal (_Jan 2015_)
 
 ## Work Experience
-**Data Entry Clerk @  Nimr Al-Lawzi and Partners (_Jan 2021 - Dec 2022)**
-  - Entered and updated information in our databases with accuracy and efficiency.
-  - Reviewed and verified data for completeness and correctness.
-  - Maintained confidential information and adhere to data entry protocols.
-
+** Researcher  @  Department of Statistics  (Nov 2024 - Present)**
+  - Conducted structured interviews with randomly selected individuals to collect demographic and economic data.
+  - Designed and maintained coding sheets and data collection tools tailored to specific research topics.
+  - Entered, cleaned, and organized raw data to ensure accuracy and consistency.
+    
+** Surveyor Assistant – Nimr Al-Lawzi and Partners (Nov 2021 – Jun 2022)**
+  - Assisted the lead surveyor in setting up and operating surveying equipment such as leveling instruments and total stations.
+  - Marked reference points and boundary lines based on engineering drawings.
+  - Accurately recorded field measurements and verified data before submission.
+    
 **Data Analyst @  Mindset (Jan 2017 - Jan 2019)**
 - Acquired data from primary or secondary data sources and maintained databases and data systems.
 - Identified, analyzed, and interpreted trends or patterns in complex data sets.
@@ -33,7 +38,7 @@ B.S., Management Information System | The University of Al-Hussein Bin Talal (_J
 -  Prepared final analysis reports for the stakeholders to understand the data-analysis steps, 
   enabling them to take important decisions based on various facts and trends.
 
-**Field Researcher @ Department of Statistics (Apr 2015 - Dec 2015)**
+** Researcher @ Department of Statistics (Apr 2015 - Dec 2015)**
 - Created data and coding sheets, and collect statistical data
 - Interviewed random individuals to collect statistics for research purposes depending on the 
   research topic.
